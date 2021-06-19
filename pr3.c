@@ -11,6 +11,5 @@ int main(){
     else{
         printf("The given number is odd");
     }
-    getch();
     return 0;
 }

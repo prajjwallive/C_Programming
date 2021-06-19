@@ -1,4 +1,4 @@
-//Check weather the given number is prime or not.
+//Check whether the given number is prime or not.
 #include <stdio.h>
 #include <conio.h>
 int main() {
