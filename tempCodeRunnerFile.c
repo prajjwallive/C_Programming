@@ -1,2 +1,2 @@
 
-    printf("Enter two variables \n");
+    printf(" Enter the first matrix\n");
